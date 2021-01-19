@@ -1,2 +1,4 @@
 # rissianaicup2020
-~330th place in sandbox
+python
+~350th place in sandbox
+https://russianaicup.ru/profile/format37
